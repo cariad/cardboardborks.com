@@ -1,0 +1,3 @@
+[submodule "themes/borks"]
+	path = themes/borks
+	url = https://github.com/cariad/borks.git

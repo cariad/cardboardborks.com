@@ -1,0 +1,8 @@
+baseURL = "https://cardboardborks.com/"
+theme = "borks"
+title = "Cardboard Borks"
+
+[Params]
+author = "Cariad Eccleston"
+banner = "/cardboardborks.svg"
+fathom = "KBKNQXXD"

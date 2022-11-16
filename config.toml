@@ -5,4 +5,16 @@ title = "Cardboard Borks"
 [Params]
 author = "Cariad Eccleston"
 banner = "/cardboardborks.svg"
+copyright = "Cardboard Borks &copy; 2022 Cariad Eccleston & Alex Derbe"
 fathom = "KBKNQXXD"
+
+[[Params.menu]]
+title = "Home"
+uri = "/"
+
+[Params.socials]
+email = "cariad@cardboardborks.com"
+instagram = "cardboardborks"
+
+[permalinks]
+blog = "/blog/:year/:month/:title/"
